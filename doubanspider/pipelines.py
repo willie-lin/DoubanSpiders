@@ -36,7 +36,7 @@ class DoubanspiderPipeline(object):
                     'classification': item['classification'],
                     'director': item['director'],
                     'celebrity': item['celebrity'],
-                    'actor' : item['actor']
+                    'actor': item['actor']
 
 
                 }]
